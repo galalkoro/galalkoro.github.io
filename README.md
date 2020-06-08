@@ -1,32 +1,52 @@
- ## Welcome to Galal KORO GitHub Page
+# MarkDown Home Page
 
-You  will read a lot likely story in my home page(https://github.com/galalkoro/galalkoro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown file
+       MarkDown Home Page
+ >
+## 2 Galal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-# Header 1
-## Header 2
-### Header 3
+>Hello HYF I am Galal, I started my journey to the future.
+>
+>to the Horizon
+>
+>**Hack Your Future**
+>
+>Let Us Go.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### Education
 
-**Bold** and _Italic_ and `Code` text
+| University          | Section            |  Year   |
+| ------------------- | ------------------ | ------- |
+| University of Nyala | Engineering Since  | 2013    |  
+|
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Hobbies
 
-### Jekyll Themes
+- Reading
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/galalkoro/galalkoro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+      politics & climate change. 
+- Playing football & watching football matches
+- swimming.
+- Documentaries.
 
-### Support or Contact
+      Air crash investigation & Forgotten wars.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+### My List
+
+- [ ] To be official in Belgium.
+- [ ] Progressing my Dutch & French language.
+- [ ] Start coding and Network.
+- [ ] Find my Dream job in IT sector.
+
+---
+
+[Galal](https://github.com/galalkoro/photo/blob/7892f46ea8ffce75891c40cdb4e3c61d32bde4ff/IMG_0003.JPG) ![Image](galalphoto.jpeg)
